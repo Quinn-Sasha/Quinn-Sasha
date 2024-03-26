@@ -1,0 +1,23 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 980px;
+    padding: 0 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.top {
+    padding-top: 100px;
+    padding-bottom: 600px;
+    background-image: url("images/top-image.png");
+    background-size: cover;
+    color: #555555;
+}
+.top-title {
+    margin-top: 120px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
