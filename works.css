@@ -1,0 +1,27 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 980px;
+    padding: 0 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.works {
+    background-color: #49677D;
+    padding-top: 140px;
+    padding-bottom: 512px;
+    color: #f9f9fa;
+    text-align: center;
+}
+.works-title {
+    font-size: 60px;
+    margin-bottom: 244px;
+}
+.works-text {
+    font-size: 30px;
+    font-family: serif;
+    opacity: 0.8;
+}
